@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">Sunrize</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Sunrize</string>
+    <string name="startNewGameButton">New Game</string>
+    <string name="title_activity_game">GameActivity</string>
+    <string name="gameText1">Hier komt zodirect informatie betreffende de hoogte en energie.</string>
+    <string name="shadowy_being_attack_button_text">Attack!</string>
+
+</resources>
