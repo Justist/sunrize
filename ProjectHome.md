@@ -1,0 +1,1 @@
+As a shadowy being, you don't like the sun being high in the sky. So you attack it, till it is down, so you can feast in the night forever!
